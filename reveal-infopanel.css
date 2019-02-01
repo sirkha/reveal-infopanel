@@ -1,3 +1,9 @@
 aside.infopanel {
     display: none;
 }
+.slide-menu-panel div.infopanel ul > a {
+    text-decoration: none;
+}
+div.infopanel ul > a > li:hover {
+    background-color: #222;
+}
